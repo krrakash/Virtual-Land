@@ -1,4 +1,4 @@
-# Metaverse Tutorial
+# Virtual Land (Metaverse Demo) Tutorial
 
 ## Technology Stack & Tools
 
